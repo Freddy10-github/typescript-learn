@@ -1,0 +1,9 @@
+{
+  "name": "typescript-learn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Freddy10-github/typescript-learn.git",
+  "author": "Freddylo <freddy_luo@moneynet.tw>",
+  "license": "MIT",
+  "dependencies": {}
+}

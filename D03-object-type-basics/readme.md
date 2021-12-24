@@ -1,0 +1,1 @@
+[Day 03. 前線維護・物件型別 X 完整性理論 - Object Types Basics](https://ithelp.ithome.com.tw/articles/10214840)
